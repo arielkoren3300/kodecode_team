@@ -3,7 +3,8 @@
 
 name: 
 **ariel@**
-status: NEW 
+status: NEW
+
 
 ![CLASSIC IMAGE]("https://res.cloudinary.com/divptfvzr/image/upload/v1776191767/projects/sjnauzgsi2wc2nbarnns.jpg")
 
