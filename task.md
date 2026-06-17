@@ -5,7 +5,7 @@ name:
 **elyashiv@**
 status: NEW 
 
-![CLASSIC IMAGE]("C:\Users\koren\Downloads\wti logo.png")
+![CLASSIC IMAGE]("https://res.cloudinary.com/divptfvzr/image/upload/v1776191767/projects/sjnauzgsi2wc2nbarnns.jpg")
 i
 ##tasks:
 
@@ -24,7 +24,7 @@ name:
 **chaime@**
 status: NEW
 
-![CLASSIC IMAGE]("C:\Users\koren\Downloads\wti logo.png")
+![CLASSIC IMAGE]("https://res.cloudinary.com/divptfvzr/image/upload/v1776191767/projects/sjnauzgsi2wc2nbarnns.jpg")
 i
 ##tasks:
 
