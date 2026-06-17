@@ -3,7 +3,7 @@
 
 name: 
 **ariel@**
-status: NEW
+status: DONE
 
 
 ![CLASSIC IMAGE]("https://res.cloudinary.com/divptfvzr/image/upload/v1776191767/projects/sjnauzgsi2wc2nbarnns.jpg")
@@ -22,7 +22,7 @@ status: NEW
 
 name:
 **@elyashiv**
-status: NEW
+status: DONE
 
 ![CLASSIC IMAGE]("https://res.cloudinary.com/divptfvzr/image/upload/v1776191767/projects/sjnauzgsi2wc2nbarnns.jpg")
 
@@ -37,6 +37,7 @@ status: NEW
 
 
 ## missin 3
+status: DONE
 name:
 **ariel@**
 ![CLASSIC IMAGE] https://elishevasegal.co.il/wp-content/uploads/2023/03/Asset-19.webp
@@ -51,7 +52,7 @@ name:
 
 name:                 
 **chchdu-cripto**
-status: NEW
+status: DONE
 
 ![CLASSIC IMAGE] https://elishevasegal.co.il/wp-content/uploads/2023/03/Asset-19.webp
 
@@ -65,7 +66,7 @@ status: NEW
 
 name:
 **elyashiv@**
-status: NEW
+status: DONE
  
 
 ![CLASSIC IMAGE]("https://res.cloudinary.com/divptfvzr/image/upload/v1776191767/projects/sjnauzgsi2wc2nbarnns.jpg")
@@ -85,7 +86,7 @@ i
 
 name:
 **chaime@**
-status: NEW
+status: DONE
 
 ![CLASSIC IMAGE]("https://res.cloudinary.com/divptfvzr/image/upload/v1776191767/projects/sjnauzgsi2wc2nbarnns.jpg")
 i
