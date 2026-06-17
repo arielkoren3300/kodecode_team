@@ -1,2 +1,6 @@
-
-none
+mission 1 done elyashiv
+mission 2 done chaim
+mission 3 done ariel
+mission 4 done chaim
+mission 5 done elyashiv
+mission 6 done ariel
