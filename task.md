@@ -1,13 +1,25 @@
-##Title
+## MISSION 3
 
 
-name:
+name: 
 **ariel@**
 status: NEW 
-
-![CLASSIC IMAGE]("C:\Users\koren\Downloads\wti logo.png")
+![CLASSIC IMAGE] https://elishevasegal.co.il/wp-content/uploads/2023/03/Asset-19.webp
 
 ##tasks:
 
-[ ]write the best footbal player
-[ ] best food do you like
+[ ] Create a file and add your address
+[ ] commit end push it to main
+
+## MISSION 4
+
+
+name:                 
+**chchdu-cripto**
+status: NEW
+
+![CLASSIC IMAGE] https://elishevasegal.co.il/wp-content/uploads/2023/03/Asset-19.webp
+
+##tasks:
+[ ] Create a file and add your address
+[ ] commit end push it to main
