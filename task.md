@@ -1,4 +1,4 @@
-##mission 5
+## mission 5
 
 
 name: 
@@ -16,8 +16,28 @@ status: NEW
 [ ] open a pull request
 
 
+## mission 6
 
-##mission 6
+
+name:
+**@elyashiv**
+status: NEW
+
+![CLASSIC IMAGE]("https://res.cloudinary.com/divptfvzr/image/upload/v1776191767/projects/sjnauzgsi2wc2nbarnns.jpg")
+
+##tasks:
+
+[ ] create a new file "winner world cup"
+[ ] list who do you think gonna win in this section
+[ ] list also who will come to second place
+[ ] add and commit it
+[ ] open a pull request
+
+
+
+## missin 3
+name:
+**ariel@**
 ![CLASSIC IMAGE] https://elishevasegal.co.il/wp-content/uploads/2023/03/Asset-19.webp
 
 ##tasks:
@@ -45,17 +65,7 @@ status: NEW
 name:
 **elyashiv@**
 status: NEW
-
-![CLASSIC IMAGE]("https://res.cloudinary.com/divptfvzr/image/upload/v1776191767/projects/sjnauzgsi2wc2nbarnns.jpg")
-
-##tasks:
-
-[ ] create a new file "winner world cup"
-[ ] list who do you think gonna win in this section
-[ ] list also who will come to second place
-[ ] add and commit it
-[ ] open a pull request
-status: NEW 
+ 
 
 ![CLASSIC IMAGE]("https://res.cloudinary.com/divptfvzr/image/upload/v1776191767/projects/sjnauzgsi2wc2nbarnns.jpg")
 i
